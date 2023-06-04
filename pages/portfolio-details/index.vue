@@ -31,16 +31,16 @@ export default {
   data() {
     return {
       info: {
-        caption: 'Pox Detection from Images',
-        category: 'Deployed Deep Learning',
-        client: 'medium',
-        projectDate: '28 July, 2022',
+        caption: 'Patient Readmission Prediction',
+        category: 'Machine Learning',
+        client: 'Hamad Medical Corporation',
+        projectDate: '12 August, 2022',
         projectURL: 'Link',
         content: {
           title:
-            'The World Health Organization has declared Monkey Pox a global health emergency',
+            'A smart machine learning-based solution to patient re-admission problems for Hamad Medical Corporation (HMC).',
           description:
-            'There are different kinds of pox — Chicken pox, smallpox, measles, and now monkeypox. We have leveraged Pytorch deep neural networks to detect different types of pox and train models, making them capable of detecting pox type from images.',
+            'Developed at the CodeCamp22 Hackathon organized by the Digital Incubation Center (DIC) under the patronage of the Ministry of Communications and Information Technolog',
         },
       },
       images: [
