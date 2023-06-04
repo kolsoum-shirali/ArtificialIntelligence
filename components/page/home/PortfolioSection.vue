@@ -43,12 +43,11 @@
                 title="App 1"
                 ><i class="bx bx-plus"></i
               ></a>
-              <a
-                href="portfolio-details.html"
+              <nuxt-link to="/portfolio-details"
                 class="details-link"
                 title="More Details"
                 ><i class="bx bx-link"></i
-              ></a>
+              ></nuxt-link>
             </div>
           </div>
 
@@ -96,12 +95,12 @@
                 title="Card 2"
                 ><i class="bx bx-plus"></i
               ></a>
-              <a
-                href="portfolio-details-pox.html"
+              <nuxt-link
+                to="/portfolio-details-pox"
                 class="details-link"
                 title="More Details"
                 ><i class="bx bx-link"></i
-              ></a>
+              ></nuxt-link>
             </div>
           </div>
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
