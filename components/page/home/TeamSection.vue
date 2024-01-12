@@ -25,7 +25,7 @@
               />
             </div>
             <div class="member-info">
-              <h4>Ashhadul Islam</h4>
+              <!-- <h4>Ashhadul Islam</h4> -->
               <p>Data Scientist</p>
               <div class="social">
                 <a href="https://www.linkedin.com/in/ashhadul-islam-b508581a/">
@@ -50,7 +50,7 @@
               />
             </div>
             <div class="member-info">
-              <h4>Md Rafiul Biswas</h4>
+              <!-- <h4>Md Rafiul Biswas</h4> -->
               <p>Machine Learning Engineer</p>
               <div class="social">
                 <a
@@ -77,7 +77,7 @@
               />
             </div>
             <div class="member-info">
-              <h4>Md Rakibul Hasan</h4>
+              <!-- <h4>Md Rakibul Hasan</h4> -->
               <p>Optimization Expert</p>
               <div class="social">
                 <a href="https://www.linkedin.com/in/rakibul-hasan-107bb575/">
@@ -102,7 +102,7 @@
               />
             </div>
             <div class="member-info">
-              <h4>Muhammad Fazlurrahman Syarif</h4>
+              <!-- <h4>Muhammad Fazlurrahman Syarif</h4> -->
               <p>Financial Analyst</p>
               <div class="social">
                 <a href="https://www.linkedin.com/in/fazlursyarif/">
