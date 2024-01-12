@@ -1,4 +1,4 @@
-### Priview ( video )
+### Priview
 
 <div align="center">
 ![](assets/images/preview.jpg)
