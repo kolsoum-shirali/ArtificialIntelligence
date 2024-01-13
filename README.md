@@ -1,9 +1,5 @@
 ### Priview
 ![](assets/images/preview.jpg)
-<div align="center">
-![](assets/images/preview.jpg)
-</div>
-
 ---
 
 ### Contact me
